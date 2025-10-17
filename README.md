@@ -1,4 +1,6 @@
 # Food Share
+# see in vercel
+https://git-main-leonaldos-projects.vercel.app/sobre
 
 **Food Share** is a food donation platform aimed at fighting hunger (SDG 2 — Zero Hunger). It allows restaurants, supermarkets, and individuals to donate surplus food to shelters, NGOs, or families in need. The goal is to connect those who have excess food with those who need it efficiently and safely.
 
